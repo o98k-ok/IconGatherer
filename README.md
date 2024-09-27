@@ -10,14 +10,106 @@ Collect and beautify good-looking icons
   <img src="./icon/raw/AirPods/airpods_1_white.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AirPods/airpods_2_black.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AirPods/airpods_2_white.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
-</p>
-
-<p align="left">
   <img src="./icon/raw/AirPods/airpods_max_1_black.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AirPods/airpods_max_1_white.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AirPods/airpods_max_2_black.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AirPods/airpods_max_2_white.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_100.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_100.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_100.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_100.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_100.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_100.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_100.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_100.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_87.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_87.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_87.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_87.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_87.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_87.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_87.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_87.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_75.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_75.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_75.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_75.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_75.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_75.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_75.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_75.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_62.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_62.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_62.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_62.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_62.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_62.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_62.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_62.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_50.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_50.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_50.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_50.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_50.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_50.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_50.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_50.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_37.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_37.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_37.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_37.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_37.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_37.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_37.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_37.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_25.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_25.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_25.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_25.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_25.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_25.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_25.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_25.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_12.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_12.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_12.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_12.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_12.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_12.5.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_12.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_12.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+
 
 ## AppleWatch
 
@@ -126,3 +218,19 @@ Collect and beautify good-looking icons
   <img src="./icon/raw/VisionPro/vision_pro_2_black.png" width="50" alt="MagicMouse 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/VisionPro/vision_pro_2_white.png" width="50" alt="MagicMouse 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
+
+
+# ring icon scripts
+
+```shell
+go run tool/merge/main.go ./icon/raw/AirPods ./icon/tool/batteryRing ./icon/batteryLevel/AirPods
+go run tool/merge/main.go ./icon/raw/AppleWatch ./icon/tool/batteryRing ./icon/batteryLevel/AppleWatch
+go run tool/merge/main.go ./icon/raw/iPad ./icon/tool/batteryRing ./icon/batteryLevel/iPad
+go run tool/merge/main.go ./icon/raw/iPhone ./icon/tool/batteryRing ./icon/batteryLevel/iPhone
+go run tool/merge/main.go ./icon/raw/Mac ./icon/tool/batteryRing ./icon/batteryLevel/Mac
+go run tool/merge/main.go ./icon/raw/MagicKeyboard ./icon/tool/batteryRing ./icon/batteryLevel/MagicKeyboard
+go run tool/merge/main.go ./icon/raw/MagicTrackpad ./icon/tool/batteryRing ./icon/batteryLevel/MagicTrackpad
+go run tool/merge/main.go ./icon/raw/mouse ./icon/tool/batteryRing ./icon/batteryLevel/mouse
+go run tool/merge/main.go ./icon/raw/bluetooth ./icon/tool/batteryRing ./icon/batteryLevel/bluetooth
+go run tool/merge/main.go ./icon/raw/VisionPro ./icon/tool/batteryRing ./icon/batteryLevel/VisionPro
+```
