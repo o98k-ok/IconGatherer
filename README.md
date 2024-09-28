@@ -118,14 +118,35 @@ Collect and beautify good-looking icons
   <img src="./icon/raw/AppleWatch/apple_watch_1_white.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AppleWatch/apple_watch_2_black.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AppleWatch/apple_watch_2_white.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
-</p>
-
-<p align="left">
   <img src="./icon/raw/AppleWatch/apple_watch_3_black.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AppleWatch/apple_watch_3_white.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AppleWatch/apple_watch_4_black.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/raw/AppleWatch/apple_watch_4_white.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_1_black_100.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_1_white_100.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_2_black_100.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_2_white_100.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_3_black_100.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_3_white_100.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_4_black_100.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_4_white_100.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_1_black_87.5.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_1_white_87.5.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_2_black_87.5.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_2_white_87.5.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_3_black_87.5.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_3_white_87.5.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_4_black_87.5.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/apple_watch_4_white_87.5.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
 
 ## iPad
 
