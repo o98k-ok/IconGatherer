@@ -108,6 +108,17 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_12.5.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
+<p align="left">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_black_0.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_1_white_0.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_black_0.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_2_white_0.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_black_0.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_1_white_0.png" width="50" alt="AirPods 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_black_0.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AirPods/airpods_max_2_white_0.png" width="50" alt="AirPods 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
 
 
 
@@ -213,6 +224,17 @@ Collect and beautify good-looking icons
 </p>
 
 
+<p align="left">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_1_black_0.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_1_white_0.png" width="50" alt="AppleWatch 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_2_black_0.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_2_white_0.png" width="50" alt="AppleWatch 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_3_black_0.png" width="50" alt="AppleWatch 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_3_white_0.png" width="50" alt="AppleWatch 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_4_black_0.png" width="50" alt="AppleWatch 4" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/AppleWatch/applewatch_4_white_0.png" width="50" alt="AppleWatch 4" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
 
 ## iPad
 
@@ -279,6 +301,12 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/iPad/ipad_2_white_12.5.png" width="50" alt="iPad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
+<p align="left">
+  <img src="./icon/batteryLevel/iPad/ipad_1_black_0.png" width="50" alt="iPad 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPad/ipad_1_white_0.png" width="50" alt="iPad 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPad/ipad_2_black_0.png" width="50" alt="iPad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPad/ipad_2_white_0.png" width="50" alt="iPad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
 
 ## iPhone
 
@@ -343,6 +371,13 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/iPhone/iphone_1_white_12.5.png" width="50" alt="iPhone 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/iPhone/iphone_2_black_12.5.png" width="50" alt="iPhone 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/iPhone/iphone_2_white_12.5.png" width="50" alt="iPhone 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/iPhone/iphone_1_black_0.png" width="50" alt="iPhone 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPhone/iphone_1_white_0.png" width="50" alt="iPhone 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPhone/iphone_2_black_0.png" width="50" alt="iPhone 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/iPhone/iphone_2_white_0.png" width="50" alt="iPhone 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
 
@@ -412,6 +447,13 @@ Collect and beautify good-looking icons
 </p>
 
 
+<p align="left">
+  <img src="./icon/batteryLevel/Mac/mac_1_black_0.png" width="50" alt="Mac 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/Mac/mac_1_white_0.png" width="50" alt="Mac 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/Mac/mac_2_black_0.png" width="50" alt="Mac 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/Mac/mac_2_white_0.png" width="50" alt="Mac 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
 ## MagicKeyboard
 
 <p align="left">
@@ -475,6 +517,13 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_1_white_12.5.png" width="50" alt="MagicKeyboard 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_2_black_12.5.png" width="50" alt="MagicKeyboard 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_2_white_12.5.png" width="50" alt="MagicKeyboard 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_1_black_0.png" width="50" alt="MagicKeyboard 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_1_white_0.png" width="50" alt="MagicKeyboard 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_2_black_0.png" width="50" alt="MagicKeyboard 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicKeyboard/magickeyboard_2_white_0.png" width="50" alt="MagicKeyboard 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
 
@@ -541,6 +590,13 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_1_white_12.5.png" width="50" alt="MagicTrackpad 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_2_black_12.5.png" width="50" alt="MagicTrackpad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_2_white_12.5.png" width="50" alt="MagicTrackpad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_1_black_0.png" width="50" alt="MagicTrackpad 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_1_white_0.png" width="50" alt="MagicTrackpad 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_2_black_0.png" width="50" alt="MagicTrackpad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/MagicTrackpad/magictrackpad_2_white_0.png" width="50" alt="MagicTrackpad 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
 
@@ -616,6 +672,15 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/mouse/mouse_2_white_12.5.png" width="50" alt="MagicMouse 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/mouse/mouse_3_black_12.5.png" width="50" alt="MagicMouse 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/mouse/mouse_3_white_12.5.png" width="50" alt="MagicMouse 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/mouse/mouse_1_black_0.png" width="50" alt="MagicMouse 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/mouse/mouse_2_black_0.png" width="50" alt="MagicMouse 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/mouse/mouse_2_white_0.png" width="50" alt="MagicMouse 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/mouse/mouse_3_black_0.png" width="50" alt="MagicMouse 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/mouse/mouse_3_white_0.png" width="50" alt="MagicMouse 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
 
@@ -720,6 +785,17 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/bluetooth/bluetooth_4_white_12.5.png" width="50" alt="Bluetooth 4" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
+<p align="left">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_1_black_0.png" width="50" alt="Bluetooth 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_1_white_0.png" width="50" alt="Bluetooth 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_2_black_0.png" width="50" alt="Bluetooth 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_2_white_0.png" width="50" alt="Bluetooth 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_3_black_0.png" width="50" alt="Bluetooth 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_3_white_0.png" width="50" alt="Bluetooth 3" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_4_black_0.png" width="50" alt="Bluetooth 4" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/bluetooth/bluetooth_4_white_0.png" width="50" alt="Bluetooth 4" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
 
 ## Vision Pro
 
@@ -784,6 +860,14 @@ Collect and beautify good-looking icons
   <img src="./icon/batteryLevel/VisionPro/visionpro_1_white_12.5.png" width="50" alt="Vision Pro 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/VisionPro/visionpro_2_black_12.5.png" width="50" alt="Vision Pro 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
   <img src="./icon/batteryLevel/VisionPro/visionpro_2_white_12.5.png" width="50" alt="Vision Pro 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/batteryLevel/VisionPro/visionpro_1_black_0.png" width="50" alt="Vision Pro 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/VisionPro/visionpro_1_white_0.png" width="50" alt="Vision Pro 1" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/VisionPro/visionpro_2_black_0.png" width="50" alt="Vision Pro 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/batteryLevel/VisionPro/visionpro_2_white_0.png" width="50" alt="Vision Pro 2" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
 </p>
 
 
