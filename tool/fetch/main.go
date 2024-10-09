@@ -43,12 +43,24 @@ func Download(urls map[string]string, filePrfix string) {
 	}
 }
 
+func GenAllURLsV2(url string) map[string]string {
+	base := "https://img.icons8.com/?size=250&id="
+	fields := strings.Split(url, "/")
+	id := fields[len(fields)-2]
+
+	format := "&format=png"
+	urls := map[string]string{
+		"color": base + id + format,
+	}
+	return urls
+}
+
 func main() {
 	if len(os.Args) != 3 {
 		log.Fatal("Usage: go run main.go <url> <output_prefix>")
 	}
 
 	raw := os.Args[1]
-	urls := GenAllURLs(raw)
+	urls := GenAllURLsV2(raw)
 	Download(urls, os.Args[2])
 }
