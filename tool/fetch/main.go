@@ -61,6 +61,6 @@ func main() {
 	}
 
 	raw := os.Args[1]
-	urls := GenAllURLsV2(raw)
+	urls := GenAllURLs(raw)
 	Download(urls, os.Args[2])
 }

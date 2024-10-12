@@ -1097,6 +1097,79 @@ Collect and beautify good-looking icons
 </p>
 
 
+## date logo
+
+<p align="left">
+  <img src="./icon/date/blossom_black.png" width="50" alt="blossom" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/blossom_white.png" width="50" alt="blossom" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/calendarfull_black.png" width="50" alt="calendarfull" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/calendarfull_white.png" width="50" alt="calendarfull" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/date_black.png" width="50" alt="calendar" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/date_white.png" width="50" alt="calendar" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/date/temple_black.png" width="50" alt="temple" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/temple_white.png" width="50" alt="temple" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/holiday_black.png" width="50" alt="holiday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/holiday_white.png" width="50" alt="holiday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+
+<p align="left">
+  <img src="./icon/date/overtime_black.png" width="50" alt="overtime" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/overtime_white.png" width="50" alt="overtime" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/monday_black.png" width="50" alt="monday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/monday_white.png" width="50" alt="monday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/date/tuesday_black.png" width="50" alt="tuesday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/tuesday_white.png" width="50" alt="tuesday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/wednesday_black.png" width="50" alt="wednesday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/wednesday_white.png" width="50" alt="wednesday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/thursday_black.png" width="50" alt="thursday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/thursday_white.png" width="50" alt="thursday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/date/friday_black.png" width="50" alt="friday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/friday_white.png" width="50" alt="friday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+
+<p align="left">
+  <img src="./icon/date/saturday_black.png" width="50" alt="saturday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/saturday_white.png" width="50" alt="saturday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
+<p align="left">
+  <img src="./icon/date/sunday_black.png" width="50" alt="sunday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+  <img src="./icon/date/sunday_white.png" width="50" alt="sunday" style="border: 1px solid #ddd; padding: 20px; margin: 0 10px;">
+</p>
+
 
 # ring icon scripts
 
